@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="342px" height="417px" viewBox="0 0 342 417" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group 6</title>
+    <g id="BeforeStartOverlayDark" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" font-family="Futura-Medium, Futura" font-weight="400">
+        <g id="Group-6">
+            <text id="Don’t-Hit-the-Clouds" stroke="#000000" stroke-width="2" font-size="36" fill="#C8C8C8">
+                <tspan x="0" y="37">Don’t Hit the Clouds!</tspan>
+            </text>
+            <text id="It’s-Simple.-Don’t-h" stroke="#000000" font-size="21" fill="#C8C8C8">
+                <tspan x="74.3337402" y="68">It’s Simple. Don’t hit</tspan>
+                <tspan x="60.5883789" y="95">the ground, the clouds,</tspan>
+                <tspan x="80.0041504" y="122">or climb too high...</tspan>
+                <tspan x="44.7460938" y="149">We’re not trained for that!</tspan>
+            </text>
+            <text id="Tap-and-Hold-to-Clim" font-size="21" fill="#000000">
+                <tspan x="51.6083984" y="331">Tap and Hold to Climb</tspan>
+                <tspan x="66.4560547" y="358">Release to Descend</tspan>
+                <tspan x="159.5" y="385"></tspan>
+                <tspan x="96.392334" y="412">Tap to Begin!</tspan>
+            </text>
+        </g>
+    </g>
+</svg>

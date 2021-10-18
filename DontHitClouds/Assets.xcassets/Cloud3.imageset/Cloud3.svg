@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="502px" height="289px" viewBox="0 0 502 289" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Cloud3</title>
+    <g id="Cloud3" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group" fill="#FFFFFF">
+            <ellipse id="Oval" cx="145" cy="129" rx="68" ry="63"></ellipse>
+            <circle id="Oval" cx="201" cy="33" r="33"></circle>
+            <circle id="Oval" cx="469" cy="192" r="33"></circle>
+            <circle id="Oval" cx="308" cy="90" r="33"></circle>
+            <circle id="Oval" cx="56" cy="116" r="33"></circle>
+            <circle id="Oval" cx="33" cy="146" r="33"></circle>
+            <circle id="Oval" cx="33" cy="113" r="33"></circle>
+            <circle id="Oval" cx="440" cy="219" r="33"></circle>
+            <circle id="Oval" cx="446" cy="153" r="33"></circle>
+            <circle id="Oval" cx="384" cy="242" r="33"></circle>
+            <circle id="Oval" cx="397" cy="99" r="33"></circle>
+            <circle id="Oval" cx="87" cy="209" r="33"></circle>
+            <circle id="Oval" cx="155" cy="66" r="33"></circle>
+            <circle id="Oval" cx="275" cy="66" r="33"></circle>
+            <circle id="Oval" cx="413" cy="120" r="33"></circle>
+            <circle id="Oval" cx="246" cy="50" r="33"></circle>
+            <circle id="Oval" cx="87" cy="99" r="33"></circle>
+            <ellipse id="Oval" cx="378" cy="176" rx="68" ry="63"></ellipse>
+            <ellipse id="Oval" cx="77" cy="153" rx="68" ry="63"></ellipse>
+            <ellipse id="Oval" cx="145" cy="226" rx="68" ry="63"></ellipse>
+            <ellipse id="Oval" cx="242" cy="216" rx="68" ry="63"></ellipse>
+            <ellipse id="Oval" cx="310" cy="216" rx="68" ry="63"></ellipse>
+            <ellipse id="Oval" cx="349" cy="129" rx="68" ry="63"></ellipse>
+            <ellipse id="Oval" cx="281" cy="120" rx="68" ry="63"></ellipse>
+            <ellipse id="Oval" cx="213" cy="113" rx="68" ry="63"></ellipse>
+        </g>
+    </g>
+</svg>
